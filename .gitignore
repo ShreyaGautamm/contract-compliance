@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv310/
+
+# OS files
+.DS_Store
+
+# Data / output files
+*.csv
+*.pdf
+*.docx
+
+# VS Code settings
+.vscode/
+
+# Temporary files
+temp.pdf
+temp.docx
