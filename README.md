@@ -45,7 +45,7 @@ Welcome to my **Multi-Agent Legal AI Project**! This repository demonstrates how
 ---
 
 ## 🌐 Deployment
-Deployed on **Streamlit Community Cloud** 👉 [App Link Here](https://share.streamlit.io)  
+Deployed on **Streamlit Community Cloud** 👉 [Here](https://contract-compliance-fkfhbzh6z9mfaezw8uqmlg.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,light_theme,show_colored_line,disable_scrolling)  
 
 ---
 
